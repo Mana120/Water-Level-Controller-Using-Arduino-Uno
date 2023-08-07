@@ -12,9 +12,9 @@ Abstract:
 
 ![image](https://github.com/Mana120/Water-Level-Controller-Using-Arduino-Uno/assets/90771545/8ca7f97e-10f9-4d5d-92da-488aa0119c1e)
 
+![image](https://github.com/Mana120/Water-Level-Controller-Using-Arduino-Uno/assets/90771545/4f0223c1-bcba-4bec-a6e7-aa5f5959ff1a)
 
-![image](https://github.com/Mana120/Water-Level-Controller-using-Arduino-Uno/assets/90771545/30cad203-55e1-46fb-a20c-0ddcb766ff4a)
+![image](https://github.com/Mana120/Water-Level-Controller-Using-Arduino-Uno/assets/90771545/0d474fb6-72b2-4109-b062-8d68fab89516)
 
-![image](https://github.com/Mana120/Water-Level-Controller-using-Arduino-Uno/assets/90771545/68312331-75e5-474e-9934-1c8bc8f122d4)
 
 
