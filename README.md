@@ -6,15 +6,15 @@ Objective:
 Abstract:
 	The water pump automation system has been built using an arduino uno microcontroller board. A water level sensor and ultrasonic sensor are installed on the overhead tank to enable detection of water level. A water level threshold is set; when the readings of the sensors fall below the threshold a signal is sent to the motor and the motor is switched on. An LCD module is also installed which allows us to continuously monitor water level readings.
  
-![image](https://github.com/Mana120/Water-Level-Controller-Using-Arduino-Uno/assets/90771545/a1680e55-18f4-4d2d-a0b4-b4695a82b10f)
+![image](https://github.com/Mana120/Water-Level-Controller-Using-Arduino-Uno/assets/90771545/d4a6381a-a874-49d2-adb1-47a6e2750e9b)
 
-![image](https://github.com/Mana120/Water-Level-Controller-Using-Arduino-Uno/assets/90771545/6e5a399e-9eb7-4c3c-8ad9-6c9426fd8e9b)
+![image](https://github.com/Mana120/Water-Level-Controller-Using-Arduino-Uno/assets/90771545/df2f9a43-e7ae-46f3-a80c-10c43f3f5d62)
 
-![image](https://github.com/Mana120/Water-Level-Controller-Using-Arduino-Uno/assets/90771545/8ca7f97e-10f9-4d5d-92da-488aa0119c1e)
+![image](https://github.com/Mana120/Water-Level-Controller-Using-Arduino-Uno/assets/90771545/9c036d59-455d-41da-923a-e86a20f9df07)
 
-![image](https://github.com/Mana120/Water-Level-Controller-Using-Arduino-Uno/assets/90771545/4f0223c1-bcba-4bec-a6e7-aa5f5959ff1a)
+![image](https://github.com/Mana120/Water-Level-Controller-Using-Arduino-Uno/assets/90771545/aa8f7025-d03e-453a-bd08-3aed6605b85b)
 
-![image](https://github.com/Mana120/Water-Level-Controller-Using-Arduino-Uno/assets/90771545/0d474fb6-72b2-4109-b062-8d68fab89516)
+![image](https://github.com/Mana120/Water-Level-Controller-Using-Arduino-Uno/assets/90771545/db5b609f-c45b-489a-a4a2-c4ee4799bcc9)
 
 
 
